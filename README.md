@@ -1,9 +1,6 @@
-# app-integration
-Integração não nativa entre RD Station CRM e ZapCloud
-
 # Automatização Personalizada
 
-Esta é uma aplicação de automatização personalizada que executa ações com base em horários predefinidos e em campos personalizados de negociações do RD Station CRM.
+Esta é uma integração personalizada não nativa entre RD Station CRM e ZapCloud que executa ações com base em horários predefinidos e em campos personalizados de negociações do RD Station CRM.
 
 ## Funcionalidades
 
